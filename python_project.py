@@ -11,6 +11,5 @@ def deposit():
         else:
             print("Enter an Amount")
     return  amount
-#deposit()
-def withdraw():
-
+deposit()
+#def withdraw():
